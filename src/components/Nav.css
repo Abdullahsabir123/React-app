@@ -1,0 +1,18 @@
+.div-dis{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.Dis{
+    width: 40vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+.list{
+    list-style: none;
+}
+.Round{
+    border-radius: 50px;
+}

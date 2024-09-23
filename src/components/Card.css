@@ -1,0 +1,9 @@
+.Card{
+    border: 1px solid rgba(0, 0, 0, 0.438);
+    width: 20vw;
+    margin: 33px 10px;
+}
+.round{
+    width: 20vw;
+    height: 40vh;
+}
