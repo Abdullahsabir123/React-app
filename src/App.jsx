@@ -1,17 +1,7 @@
-import "./App.css";
-// import Herosection from "./components/Herosection";
-// import Nav from "./components/Nav";
-// import Footer from "./components/Footer";
+import React from 'react'
 
-function App() {
+export default function App() {
   return (
-    <>
-
-      Hello Claass
-
-
-    </>
-  );
+    <React.StrictMode>App</React.StrictMode>
+  )
 }
-
-export default App;
