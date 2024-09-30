@@ -14,3 +14,6 @@ export default function Footer(props) {
     </>
   )
 }
+Footer.defaultProps ={
+  footer: 'Footer',
+}
