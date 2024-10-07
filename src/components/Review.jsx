@@ -5,7 +5,7 @@ export default function Review() {
   return (
     <>
       <center>
-        <h1 className="mar">Costumer Review</h1>
+        <h1 className="mar">Costumer Reviews</h1>
       </center>
       <div className="contaner mar-1">
         <div className="contaner-1">

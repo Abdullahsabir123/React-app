@@ -20,7 +20,7 @@ export default function About() {
         </div>
         <div className='container2'>
             <p className='mar1'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit minus a quis, iusto enim, reprehenderit architecto ipsa veritatis corporis dolorum sint quos eveniet repudiandae, quibusdam veniam. Excepturi recusandae eius facere fuga doloremque quis, assumenda, culpa, ratione consectetur aut ipsa dolores modi a!</p>
-            <button> Read More <i class="fa-solid fa-arrow-right-long"></i></button>
+            <button className='btn'> Read More <i class="fa-solid fa-arrow-right-long"></i></button>
         </div>
     </div>
     </>

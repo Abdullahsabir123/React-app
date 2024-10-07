@@ -4,6 +4,7 @@ import Herosection from './components/Herosection'
 import Footer from './components/Footer'
 import About from './components/About'
 import Review from './components/Review'
+import Contact from './components/Contact'
 
 export default function App() {
   return (
@@ -12,7 +13,8 @@ export default function App() {
       <Herosection/>
       <About/>
       <Review/>
-      <Footer/>
+      <Contact/>
+      <Footer footer='Transport'/>
     </React.StrictMode>
   )
 }

@@ -6,6 +6,7 @@
     justify-content: space-around;
 }
 .contaner-1{
+    border: 2px solid rgba(0, 0, 0, 0.303);
     text-align: center;
     width: 20vw;
 }

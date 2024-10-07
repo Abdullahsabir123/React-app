@@ -5,6 +5,7 @@ import "./Hero.css";
 export default function Herosection() {
   return (
     <>
+            <center><h1 className="mar">Products</h1></center>
       <div className="dis">
         {/* card 1 */}
         <Cards
