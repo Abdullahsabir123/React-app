@@ -3,6 +3,7 @@ import Nav from './components/Nav'
 import Herosection from './components/Herosection'
 import Footer from './components/Footer'
 import About from './components/About'
+import Review from './components/Review'
 
 export default function App() {
   return (
@@ -10,6 +11,7 @@ export default function App() {
       <Nav Brand='Transport' pic='https://images.pexels.com/photos/3207442/pexels-photo-3207442.jpeg?auto=compress&cs=tinysrgb&w=600'/>
       <Herosection/>
       <About/>
+      <Review/>
       <Footer/>
     </React.StrictMode>
   )

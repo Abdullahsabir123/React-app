@@ -1,0 +1,26 @@
+.contaner{
+    margin: auto;
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.contaner-1{
+    text-align: center;
+    width: 20vw;
+}
+.div-img{
+    background-color: red;
+}
+.img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: orange;
+}
+.clr{
+    color: yellow;
+}
+.mar-1{
+    margin-top: 15px;
+}
