@@ -1,0 +1,16 @@
+.container{
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container1{
+    width: 50%;
+    border: 2px solid black;
+}
+.text{
+    text-align: center;
+}
+.container2{
+    width: 50%;
+    border: 2px solid black;
+}
