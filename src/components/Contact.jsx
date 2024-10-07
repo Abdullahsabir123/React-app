@@ -38,6 +38,7 @@ export default function Contact() {
             width="370"
             height="95%"
             allowfullscreen=""
+            title="ifr"
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"
           />
