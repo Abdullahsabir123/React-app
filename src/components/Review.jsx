@@ -13,6 +13,7 @@ export default function Review() {
             <img
               className="img"
               src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=600"
+              alt='img'
             />
           </div>
           <div className="text-1">
@@ -36,6 +37,7 @@ export default function Review() {
             <img
               className="img"
               src="https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&w=600"
+              alt="img"
             />
           </div>
           <div className="text-1">
@@ -59,6 +61,7 @@ export default function Review() {
             <img
               className="img"
               src="https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=600"
+              alt="img"
             />
           </div>
           <div className="text-1">
